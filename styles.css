@@ -1,0 +1,16 @@
+*{color: #fff}
+.bg{background: url(../project/backgrnd.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(backgrnd.jpg);
+    height: 100%;
+    background-position: center; 
+    background-size: cover;}
+
+.form-container{border: 0px solid #fff; padding: 50px 60px; margin-top: 20vh;
+-webkit-box-shadow: -1px 4px 26px 10px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 10px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 10px rgba(0,0,0,0.75);
+} 
+
+.forgot{margin: 30px; margin-left: 220px;}
+
+.signin{margin: 30px; margin-left: 190px;}
